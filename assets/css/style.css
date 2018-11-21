@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(29, 29, 34);
+    color: azure;
+    
+}
+
+#giphy-view {
+    display: inline;
+}
