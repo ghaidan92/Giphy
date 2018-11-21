@@ -1,9 +1,16 @@
 body {
-    background-color: rgb(29, 29, 34);
-    color: azure;
+    background-image: url("https://coolwallpaper.website/wp-content/uploads/2017/02/Cool-Pastel-Wallpaper-Tumblr-Amazing-free-HD-3D-wallpapers-collection-You-can-download-best-3D-desktop-backgrounds.-3D-windows-wallpapers-pc-in-both-widescreen-sofa-sectionals-with-chaise-lounge.jpg");
+    background-size: cover;
     
 }
 
 #giphy-view {
     display: inline;
+}
+
+.giphy-details {
+    float: left;
+    margin: 20px;
+    border: solid red 10px;
+    size: 50px;
 }

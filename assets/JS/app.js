@@ -1,6 +1,6 @@
 var giphies = ["Fat Cats", "silicon valley", "catdog", "football clubs"];
 
-// displayMovieInfo function re-renders the HTML to display the appropriate content
+// displayGiphyInfo function re-renders the HTML to display the appropriate content
 function displayGiphyInfo() {
 
     var giphy = $(this).attr("data-name");
